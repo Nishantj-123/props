@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+.black{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    color: white;
+  }
+  .white{
+    background-color: white;
+    height: 400px;
+    width: 100%;
+  }
+
+  /* body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+
+  } */
+  
